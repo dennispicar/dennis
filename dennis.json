@@ -106,5 +106,14 @@
     "priceCurrency": "PESO",
     "lat": 20.448507,
     "lng": 121.970813
+     },
+  {
+    "id": 236,
+    "name": "Camiguin Island",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/Batanes.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 9.173216,
+    "lng": 124.729877
   }
 ]
