@@ -37,20 +37,20 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "name": "Donsol",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/donsol.jpg",
     "price": 135,
     "priceCurrency": "PESO",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 12.994317,
+    "lng": 123.550408
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
+    "name": "Mayon Volcano",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/mayon_volcano.jpg",
     "price": 90,
     "priceCurrency": "PESO",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 13.254832,
+    "lng": 123.686112
   }
 ]
