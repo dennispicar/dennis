@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Carlatan",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/1.jpg",
-    "price": "km",
+    "price": 90,
     "priceCurrency": "km",
     "lat": 16.634786,
     "lng": 120.319046
