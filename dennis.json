@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Banaue Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/banaue_rice_terraces.jpg",
-    "price": 209.6,
+    "price": 209 6,
     "priceCurrency": "km",
     "lat": 16.923954,
     "lng": 121.055640
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/boracay.jpg",
-    "price": 713.8,
+    "price": 713 8,
     "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/chocolate_hills.jpg",
-    "price": 1 197.1,
+    "price": 1 197 1,
     "priceCurrency": "km",
     "lat": 9.829708,
     "lng": 124.139676
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Donsol",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/donsol.jpg",
-    "price": 819.3,
+    "price": 819 3,
     "priceCurrency": "km",
     "lat": 12.994317,
     "lng": 123.550408
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Mayon Volcano",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/mayon_volcano.jpg",
-    "price": 763.4,
+    "price": 763 4,
     "priceCurrency": "km",
     "lat": 13.254832,
     "lng": 123.686112
@@ -66,7 +66,7 @@
     "id": 232,
     "name": "Puerto Galera",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/puerto_galera.jpg",
-    "price": 411.0,
+    "price": 411 0,
     "priceCurrency": "km",
     "lat": 13.501891,
     "lng": 120.954120
@@ -75,7 +75,7 @@
     "id": 233,
     "name": "Puerto Princesa Underground",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/puerto_princesa_underground_river.jpg",
-    "price": 1 075.4,
+    "price": 1 075 4,
     "priceCurrency": "km",
     "lat": 10.192559,
     "lng": 118.926583
@@ -93,7 +93,7 @@
     "id": 235,
     "name": "El Nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/el_nido_palawan.jpg",
-    "price": 888.2,
+    "price": 888 2,
     "priceCurrency": "km",
     "lat": 11.209709,
     "lng": 119.462254
@@ -111,7 +111,7 @@
     "id": 236,
     "name": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/Batanes.jpg",
-    "price": 1 349.4,
+    "price": 1 349 4,
     "priceCurrency": "km",
     "lat": 9.173216,
     "lng": 124.729877
