@@ -10,21 +10,21 @@
   },
   {
     "id": 148,
-    "name": "Grape Farm",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/banaue_rice_terraces.jpg",
     "price": 200,
     "priceCurrency": "PESO",
-    "lat": 16.491487,
-    "lng": 120.324812
+    "lat": 16.923954,
+    "lng": 121.055640
   },
   {
     "id": 201,
-    "name": "Macho temple",
-    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/2.jpg",
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/boracay.jpg",
     "price": 150,
     "priceCurrency": "PESO",
-    "lat": 16.590576,
-    "lng": 120.323370
+    "lat": 11.967375,
+    "lng": 121.924815
   },
   {
     "id": 205,
