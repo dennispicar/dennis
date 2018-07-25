@@ -52,5 +52,14 @@
     "priceCurrency": "PESO",
     "lat": 13.254832,
     "lng": 123.686112
+    },
+  {
+    "id": 231,
+    "name": "malapascua_island",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/malapascua_island.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 11.335846,
+    "lng": 124.115636
   }
 ]
