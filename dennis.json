@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/chocolate_hills.jpg",
-    "price": 1,197.1 ,
+    "price": 1 197.1,
     "priceCurrency": "km",
     "lat": 9.829708,
     "lng": 124.139676
@@ -111,7 +111,7 @@
     "id": 236,
     "name": "Camiguin Island",
     "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/Batanes.jpg",
-    "price": 1,349.4,
+    "price": 1 349.4,
     "priceCurrency": "km",
     "lat": 9.173216,
     "lng": 124.729877
