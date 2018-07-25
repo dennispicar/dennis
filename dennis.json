@@ -61,5 +61,32 @@
     "priceCurrency": "PESO",
     "lat": 11.335846,
     "lng": 124.115636
+     },
+  {
+    "id": 232,
+    "name": "Puerto Galera",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/puerto_galera.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 13.501891,
+    "lng": 120.954120
+     },
+  {
+    "id": 233,
+    "name": "Puerto Princesa Underground",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/puerto_princesa_underground_river.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 10.192559,
+    "lng": 118.926583
+     },
+  {
+    "id": 234,
+    "name": "Tubbataha Reef",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/tubbataha_reef.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 8.850000,
+    "lng": 119.933333
   }
 ]
