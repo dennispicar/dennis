@@ -88,5 +88,23 @@
     "priceCurrency": "PESO",
     "lat": 8.850000,
     "lng": 119.933333
+    },
+  {
+    "id": 235,
+    "name": "El Nido Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/el_nido_palawan.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 11.209709,
+    "lng": 119.462254
+    },
+  {
+    "id": 236,
+    "name": "Batanes Island",
+    "imageUrl": "https://raw.githubusercontent.com/dennispicar/dennis/master/Batanes.jpg",
+    "price": 90,
+    "priceCurrency": "PESO",
+    "lat": 20.448507,
+    "lng": 121.970813
   }
 ]
